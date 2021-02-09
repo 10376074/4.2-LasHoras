@@ -1,0 +1,1 @@
+Cree una carpeta llamada img y meta dentro las imágenes.
